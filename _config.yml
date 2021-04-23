@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Chrysoula (Chryssa) Zerva"
+title                    : "Chrysoula Zerva"
 title_separator          : "-"
 name                     : &name "Chrysoula Zerva"
 description              : &description "Post-doctoral researcher @ DeepSPIN"
