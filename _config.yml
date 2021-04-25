@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chrysoula (Chryssa) Zerva"
+  name             : "Chrysoula Zerva"
   avatar           : "profile.png"
-  bio              : "Post-doc researcher @ DeepSPIN group at the Instituto de Telecomunicações, Lisbon, Portugal. Fascinated by a range of different (and everchanging) topics, including uncertainty and bias (both in models and text!) as well as explainability and disentanglement of latent representations." # <br/>  Previously, I was a researcher at the University of Manchester, where I held the EPSRC Doctoral Prize Fellowship award (2019). I also obtained my PhD at the University of Manchester for my thesis on “Automated identification of textual uncertainty” under the supervision of Prof. Ananiadou.  <br/> I am also keen on dissemination of scientific advances to the public and is actively involved in organising and speaking in relevant events such as the Pint of Science, Manchester Science Festival and WLUK events. I was also a speaker for the practical sessions of AI4Health winter school 2020, check out our github if you want to train your own deep BionLP models! Check my detailed CV for more information on positions and projects!"
+  bio              : "Post-doc researcher @ DeepSPIN group at the Instituto de Telecomunicações, Lisbon. Fascinated by a range of different (and everchanging) topics, including uncertainty and bias as well as explainability and disentanglement of latent representations." # <br/>  Previously, I was a researcher at the University of Manchester, where I held the EPSRC Doctoral Prize Fellowship award (2019). I also obtained my PhD at the University of Manchester for my thesis on “Automated identification of textual uncertainty” under the supervision of Prof. Ananiadou.  <br/> I am also keen on dissemination of scientific advances to the public and is actively involved in organising and speaking in relevant events such as the Pint of Science, Manchester Science Festival and WLUK events. I was also a speaker for the practical sessions of AI4Health winter school 2020, check out our github if you want to train your own deep BionLP models! Check my detailed CV for more information on positions and projects!"
   location         : "Lisbon, Portugal"
   employer         :
   pubmed           : 
