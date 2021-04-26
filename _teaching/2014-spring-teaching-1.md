@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "AI4Health Winter School"
+collection: summer/winter schools
+type: "Summer/winter schools"
+permalink: /teaching/ai4health
+venue: "Health Data Hub / PRAIRIE"
+date: 2021-01-07/2021-01-08
+location: "(online) Paris, France"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
