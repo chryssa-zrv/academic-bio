@@ -3,15 +3,16 @@ title: "AI4Health Winter School"
 collection: summer/winter schools
 type: "Summer/winter schools"
 permalink: /teaching/ai4health
-venue: "[online]"
+venue: "Health Data Hub / PRAIRIE"
 date: 2021-01-07/2021-01-08
-location: "\[online\] Paris, France"
+location: "(online) Paris, France"
 ---
 
 Taught the practical sessions at the AI4Health winter school titled "Biomedical Text Mining: methods, tools and applications". Co-organised with [Fenia Christopoulou](https://www.linkedin.com/in/fenchri?originalSubdomain=uk)
 
 
-### Abstract: Biomedical Text Mining and Natural Language Processing (BioNLP) are important areas of AI that can assist health experts in biomedical research. The large amount of freely available biomedical text has made BioNLP techniques particularly attractive and useful for clinicians, via methods for automatic knowledge extraction and discovery. Typically, mining knowledge from biomedicine is considered much harder than other types of text due to the expertise required. The goal of this tutorial is to provide the participants with a hands-on overview of the main downstream tasks and applications of biomedical NLP and how these can be used to construct useful tools for biomedical research.
+### Abstract: 
+Biomedical Text Mining and Natural Language Processing (BioNLP) are important areas of AI that can assist health experts in biomedical research. The large amount of freely available biomedical text has made BioNLP techniques particularly attractive and useful for clinicians, via methods for automatic knowledge extraction and discovery. Typically, mining knowledge from biomedicine is considered much harder than other types of text due to the expertise required. The goal of this tutorial is to provide the participants with a hands-on overview of the main downstream tasks and applications of biomedical NLP and how these can be used to construct useful tools for biomedical research.
 
 The session will cover three parts:
 
